@@ -12,7 +12,7 @@ hash_map['apple'] = 0.67
 hash_map['TV'] = 334
 hash_map['ice cream'] = 6
 hash_map['orange'] = 3.5
-hash_map['grape'] = 2,4
-print(hash_map['ice cream'])
+hash_map['grape'] = 2.4
+print(hash_map['grape'])
 
 
